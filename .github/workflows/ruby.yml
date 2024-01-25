@@ -24,3 +24,5 @@ jobs:
       plugin: katello
       postgresql_container: ghcr.io/theforeman/postgresql-evr
       test_existing_database: false
+      foreman_repository: ofedoren/foreman
+      foreman_version: foreman-on-ruby-3-letsgooo
